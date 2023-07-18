@@ -4,4 +4,4 @@ Characterizing and modeling hydrogen sulfide production in anaerobic digestion o
 .TXT (TEXT FILE)
 .rds (R object file)
 
-Coefficents and parameters associated with each fitted curve are provided here.  
+Coefficents and parameters associated with each fitted curve (Figures S.1-S.7) are provided here.  
